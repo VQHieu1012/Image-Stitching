@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #b5fac7;
+}
+
+.pages {
+  color: #316685;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 5%;
+}
+
+.image-uploader {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.image-container {
+  margin-bottom: 20px;
+}
+
+.preview-img {
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.camera-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+}
+
+.select-container {
+  margin-bottom: 20px;
+}
+
+.btn-container {
+  margin-bottom: 20px;
+}
+
+.stitch-button {
+  position: fixed;
+  bottom: 20px; /* Adjust as needed */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Center horizontally */
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
