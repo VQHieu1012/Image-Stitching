@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Requirement
 
 - `fastAPI` which can be installed with command line `pip install fastapi`
-- 
+- `uvicorn`, install with `pip install uvicorn`
+- `npm`, install with [NodeJS](https://nodejs.org/en/)
 
 ## Available Scripts
 
