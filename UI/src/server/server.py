@@ -51,5 +51,5 @@ def run_wsl_command(command):
         return "WSL is not installed or not accessible."
 
 # Example: Running 'ls' command in WSL
-output = run_wsl_command('ls')
-print(output)
+# output = run_wsl_command('ls')
+# print(output)
