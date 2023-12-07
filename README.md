@@ -3,6 +3,12 @@
 * OpenCV 3.4
 * pkg-config
 
+## To install OpenCV in Ubuntu (or Wsl for Windows)
+You can follow this tutorial: https://github.com/lynux0906/OpenCv-pp-Ubuntu
+
+## Check this link for open source code SURF
+https://github.com/julapy/ofxOpenSurf
+
 ## Compile
 You need to open terminal and compile code.
 
