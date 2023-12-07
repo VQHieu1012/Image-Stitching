@@ -1,4 +1,13 @@
-## Sequential Version
+## To run the code:
+* GCC 6 or higher
+* OpenCV 3.4
+* pkg-config
+
+## Compile
+You need to open terminal and compile code.
+
+
+## Version
 ### Compile the Code
 #### Compile on Ubuntu:
 ```
