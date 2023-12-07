@@ -47,7 +47,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Running server
 
-In the project directory, point to `src/server` and run `uvicorn server:app --reload`. This will setup server on port `8000`
+In the project directory, point to `src/server` and run `uvicorn server:app --reload`. This will setup server on port `8000`.
 
 ## Learn More
 
