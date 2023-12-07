@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirement
+
+- `fastAPI` which can be installed with command line `pip install fastapi`
+- 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -41,9 +46,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Running server
 
-### Requirement: `fastAPI`, `uvicorn`
-
 In the project directory, point to `src/server` and run `uvicorn server:app --reload`. This will setup server on port `8000`
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
