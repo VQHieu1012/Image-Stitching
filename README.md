@@ -27,7 +27,7 @@ g++ -std=c++11 -fpermissive -Ofast -o test main.cpp fasthessian.cpp integral.cpp
 
 #### To run parallel with openmp
 ```
-g++ -fopenmp -std=c++11 -fpermissive -O3 -o test main.cpp fasthessian.cpp integral.cpp ipoint.cpp surf.cpp utils.cpp `pkg-config opencv --cflags --libs`
+g++ -fopenmp -std=c++11 -fpermissive -Ofast -o test main.cpp fasthessian.cpp integral.cpp ipoint.cpp surf.cpp utils.cpp `pkg-config opencv --cflags --libs`
 
 ```
 
